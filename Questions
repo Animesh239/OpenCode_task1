@@ -1,0 +1,21 @@
+question no.1:
+
+Git is a distributed type of version control system that tracks the changes occurring in the source code during the process of software development. The main purpose of Git is to coordinate the work among the programmers involved in the development, but it can also help a lot in tracking the changes in a given set of files. The goals of a Git include data integrity, speed, and providing support for non-linear, distributed workflows.
+The primary focus of Git is code sharing and version control.
+
+
+Github is a hosting service for the Git repository that is web-based. It offers all the functionalities of source code management as well and distributed revision control that comes with Git. Along with this, GitHub comes with a lot of its own addition.
+The primary focus of GitHub is the hosting of the centralized source code.
+
+question no.2:
+
+git merge: Git merge basically integrates your feature branch with all of its commits back to the dev (or master) branch. It's important to remember that you first need to be on the specific branch that you want to merge with your feature branch.
+git push: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch , but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
+git pull: The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content. Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows.
+git commit: git commit -a. Commit a snapshot of all changes in the working directory. This only includes modifications to tracked files (those that have been added with git add at some point in their history). git commit -m "commit message" A shortcut command that immediately creates a commit with a passed commit message.
+git branch: in Git, branches are a part of your everyday development process. Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes.
+
+question no.3:
+
+when we post changes on our remote repository, then it starts showing compare and pull request option on github.
+by clicking on that option we can compare changes and comment and make pull request.
